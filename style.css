@@ -1,4 +1,13 @@
-h1 {color: #fff;}
+html, body{
+    font-family: 'Montserrat', sans-serif;
+	width: 100%;
+	height: 100%;
+	margin: 0;
+}
+h1 {
+	color: #fff;
+	font-family: 'Montserrat', sans-serif;
+}
 .container{
         margin: 0 auto;
         }  
@@ -25,7 +34,7 @@ h1 {color: #fff;}
         } 
 .btn-container {
 		margin: 10px 5px;
-		background: #ffbb4f;
+		background: #29B6F6;
 }
 
 .btn {
